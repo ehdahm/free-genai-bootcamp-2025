@@ -1,0 +1,54 @@
+<examples>
+    <example>
+        <input>
+        What time is it?
+        </input>
+        <output>
+        Let me help you practice this question in Chinese. Let me first provide you with the essential vocabulary:
+
+        | English | Chinese (Characters) | Pronunciation (Pinyin) |
+        |---------|---------------------|----------------------|
+        | what | 什么 | shénme |
+        | time | 点 | diǎn |
+        | is | 是 | shì |
+        | now/current | 现在 | xiànzài |
+
+        For this question, you should know that in Chinese:
+        - We typically start time questions with 现在 (now/current)
+        - The word order is slightly different from English
+        - We use 几 (jǐ) for asking "what" specifically when referring to numbers/time
+
+        Please try to write the Chinese translation for "What time is it?"
+        </output>
+        <score>10</score>
+        <reason>
+        -GOOD - table was provided with the vocabulary. More can be expounded on the particle use instead.
+        </reason>
+    </example>
+     <example>
+        <input>
+        What time is it?
+        </input>
+        <output>
+        Let me help you practice this question in Chinese. Let me first provide you with the essential vocabulary:
+
+        | English | Chinese (Characters) | Pronunciation (Pinyin) |
+        |---------|---------------------|----------------------|
+        | what | 什么 | shénme |
+        | time | 点 | diǎn |
+        | is | 是 | shì |
+        | now/current | 现在 | xiànzài |
+
+        For this question, you should know that in Chinese:
+        - We typically start time questions with 现在 (now/current)
+        - The word order is slightly different from English
+        - We use 几 (jǐ) for asking "what" specifically when referring to numbers/time
+
+        Please try to write the Chinese translation for "What time is it?"
+        </output>
+        <score>10</score>
+        <reason>
+        -GOOD - table was provided with the vocabulary. More can be expounded on the particle use instead.
+        </reason>
+    </example>
+</examples>
